@@ -1,4 +1,4 @@
-# 🎥 Repositório de Vídeo-Aulas - Estudo de Programação
+s# 🎥 Repositório de Vídeo-Aulas - Estudo de Programação
 
 Este repositório organiza o material de vídeo-aulas que estou utilizando para estudar programação e desenvolvimento. Aqui você encontrará conteúdos de várias linguagens e fundamentos essenciais.
 
